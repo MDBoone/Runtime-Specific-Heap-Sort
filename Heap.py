@@ -1,7 +1,6 @@
 import sys
 import math
 
-# BEGIN DO NOT MODIFY
 
 db = False
 swap_count = 0
